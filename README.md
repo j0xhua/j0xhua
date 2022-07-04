@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j0xhua
-- 👀 I’m interested in building blockchain applications and web3 products
-- 🌱 I’m currently learning smart contract engineering (Solidity)
-- 💞️ I’m looking to collaborate on smart contracts, and DAO development
+- 👀 I’m interested in building blockchain applications and products
+- 🌱 I’m currently focussing on frontend development and smart contract engineering
+- 💞️ I’m looking to collaborate on frontend and smart contract projects in the blockchain space
 - 📫 How to reach me @j0xhua_
 
 <!---
